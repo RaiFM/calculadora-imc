@@ -6,4 +6,4 @@ Olá, esta é a versão executável para web de uma calculadora de imc.
 - Coloque sua altura (cm)
 - Aperte em calcular e veja o resultado
 
-Para entender melhor jogue [Aqui](https://raifm.github.io/calculadora-imc/)
+Calcule o seu IMC [aqui](https://raifm.github.io/calculadora-imc/)
